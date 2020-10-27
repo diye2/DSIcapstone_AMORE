@@ -1,5 +1,6 @@
 **AMORE - DSI Capstone FALL 2020**
 **FILES**
+- **THIS README FILE**
 - **main.py**
   - read in data
   - calculate weights
@@ -14,7 +15,9 @@
   - calculate_weight(eqn, init_values)
 - **directed_graph.py**  
   - TODO
-  
+- **requirements.txt**
+  - pip install -r requirements.txt
+
 **TODO:**  
 *calculations.py*  
 Direct influence - a normalized contribution of species B to the production rate of species A, rAB, if the normalized contribution r_AB is sufficiently large, species A strongly depends on species B.  
